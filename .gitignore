@@ -1,5 +1,6 @@
 .gradle
 /build/
+/bin/default
 !gradle/wrapper/gradle-wrapper.jar
 
 ### STS ###
